@@ -1,0 +1,98 @@
+body {
+  background-image:url("https://cdn.wallpapersafari.com/84/98/mYGpq0.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.intro-page {
+  width:60%;
+  margin: 0px auto 0px auto;
+  padding: 0em 4em ;
+  text-align: center;
+}
+
+h1 {
+	color:white;
+    font-size: 3.4em;
+}
+
+.starter-img {
+	width: 65%;
+    box-shadow: 4px 4px 65px #e6e6e6;
+}
+
+.questions {
+  margin: 0px auto 0px auto;
+  padding: 0em 4em ;
+  text-align: center;
+  font-size: 1.4em;
+}
+
+h3 {
+color:white;
+}
+
+.counter-place {
+  color:white;
+  display:flex;
+  justify-content: flex-end;
+  font-size: 20px;
+}
+
+.answer-page {
+  color:white;
+  margin: 0px auto 0px auto;
+  padding: 0em 3em ;
+  text-align: center;
+  width: 50em;
+}
+
+.characters {
+	width: 55%;
+    height: 75%; 
+
+}
+ 
+.answer-box {
+    background-color: rgba(128, 204, 255, 0.6);
+    margin: 1.4em 4em;
+    padding: 2em;
+    font-size: 2.2em;
+    color:white;
+    box-shadow: 4px 4px 60px #e6e6e6;
+    border-radius: 15%;
+}
+
+input {
+	padding: 1em;
+    border:black solid 3.4px;
+}
+
+.submit-button {
+	background-color: rgb(128, 195, 255);
+    border: solid 0.2em white;
+    padding: 0.5em 1.6em;
+    margin: 2em;
+    font-size: 1.13em;
+    border-radius: 15%;
+    box-shadow: 4px 4px 50px #e6e6e6;
+    text-align:center;
+}
+
+button:hover {
+	background-color: rgba(128, 204, 255, 0.5);
+    color:white;
+}
+
+.retry-button {
+	background-color: rgb(128, 195, 255);
+    border: solid 0.2em white;
+    padding: 1.2em 2.6em;
+    margin: 0em;
+    font-size: 1.13em;
+    border-radius: 15%;
+    box-shadow: 4px 4px 50px #e6e6e6;
+    text-align:center;
+}
+
